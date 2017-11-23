@@ -1,0 +1,15 @@
+{
+    "name": "@org/auth",
+    "version": "2.0.0-dev.21",
+    "license": "UNLICENSED",
+    "peerDependencies": {
+        "@angular/common": "~5.0.0",
+        "@angular/http": "~5.0.0",
+        "rxjs": "~5.5.2"
+    },
+    "main": "bundles/auth.umd.js",
+    "module": "@org/auth.es5.js",
+    "es2015": "@org/auth.js",
+    "typings": "auth.d.ts",
+    "metadata": "auth.metadata.json"
+}
