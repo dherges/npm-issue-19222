@@ -5,7 +5,7 @@ See npm/npm#19222
 
 ## How To Reproduce
 
-``bash
+```bash
 david@ubuntu:npm-issue-19222$ cd auth/
 david@ubuntu:auth$ npm -v
 5.5.1
